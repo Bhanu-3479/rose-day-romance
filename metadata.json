@@ -1,0 +1,8 @@
+{
+  "name": "Rose Day Romance",
+  "description": "An enchanting Rose Day experience featuring beautiful floral displays, a chocolate gallery, and a touching animated proposal scene, complete with an AI-powered romantic note generator.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
